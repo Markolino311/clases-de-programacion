@@ -3,3 +3,5 @@ numero2 = int(input("Ingresa el segundo número: "))
 
 print(numero1 + numero2)
 print("Hola Eduardo. Bienvenido a la clase de Python")
+
+numero3 = 5
